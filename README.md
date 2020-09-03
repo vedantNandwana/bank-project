@@ -3,7 +3,7 @@ LogX is a simple project by Vedant . It is made using python programming languag
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pip.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install plyer.
 
 ```bash
 pip install plyer
