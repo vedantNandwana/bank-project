@@ -1,7 +1,22 @@
-# bank-project
-This project is for commercial and non-commercial use both , you can edit and customize this as per your need .
-This is the pre-release of the app , so it will have some bugs and errors .
-You can pull requests so that we can make this app bug-free and smooth .
-Updates of GUI are coming soon . 
-This is the CLI based app .
-*note* - This app is currently case sensitive , we will make it case-insensitive soon .
+# LogX
+LogX is a simple project by Vedant . It is made using python programming language . It is made for storing data of things / person . And watching it whenever required .
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pip.
+
+```bash
+pip install plyer
+```
+
+## Usage
+It is used for storing the data and after storing , calling the data whenever required , you can use it is open source and a freeware .
+
+
+## Contributing
+We welcome pull requests . And if you see any bug , problem you can contribute or pull issues , so that we can fix it easily .
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
