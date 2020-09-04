@@ -7,6 +7,8 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install plyer.
 
 ```bash
 pip install plyer
+pip install tkinter
+pip install os
 ```
 
 ## Usage
