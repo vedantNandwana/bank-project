@@ -1,4 +1,4 @@
-# Contact Book
+# Contact Manager 
 This program is made for general purposes , you can use it as a contact book where you can store your contacts .
 
 ## Installation
